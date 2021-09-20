@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BitByBiter-website/static/css/main.ee91bf02.chunk.css",
+    "main.js": "/BitByBiter-website/static/js/main.a546ac91.chunk.js",
+    "main.js.map": "/BitByBiter-website/static/js/main.a546ac91.chunk.js.map",
+    "runtime-main.js": "/BitByBiter-website/static/js/runtime-main.551c94d7.js",
+    "runtime-main.js.map": "/BitByBiter-website/static/js/runtime-main.551c94d7.js.map",
+    "static/js/2.2ccb5b61.chunk.js": "/BitByBiter-website/static/js/2.2ccb5b61.chunk.js",
+    "static/js/2.2ccb5b61.chunk.js.map": "/BitByBiter-website/static/js/2.2ccb5b61.chunk.js.map",
+    "index.html": "/BitByBiter-website/index.html",
+    "static/css/main.ee91bf02.chunk.css.map": "/BitByBiter-website/static/css/main.ee91bf02.chunk.css.map",
+    "static/js/2.2ccb5b61.chunk.js.LICENSE.txt": "/BitByBiter-website/static/js/2.2ccb5b61.chunk.js.LICENSE.txt",
+    "static/media/记账vue版.93df064b.jpg": "/BitByBiter-website/static/media/记账vue版.93df064b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.551c94d7.js",
+    "static/js/2.2ccb5b61.chunk.js",
+    "static/css/main.ee91bf02.chunk.css",
+    "static/js/main.a546ac91.chunk.js"
+  ]
+}
